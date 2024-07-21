@@ -1,0 +1,84 @@
+h1{
+    color: rgb(0, 0, 0);
+    margin: 30px;
+    padding: 100px;
+    background: linear-gradient(to left,rgb(255, 126, 6),rgb(255, 157, 0));
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 20%;
+}
+
+
+body{
+    background: linear-gradient(to left,rgb(41, 1, 1),rgb(106, 25, 1));
+}
+
+
+.h2-first{
+    color: rgb(255, 140, 0);
+    font-family: Arial;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25;
+}
+
+
+
+.h2-second{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25
+}
+
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+img{
+    border: 15px solid rgb(255, 153, 0);
+    border-radius: 10%;
+}
+
+
+.a-page2{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 25px;
+    color: rgb(255, 223, 143);
+    transition: 700ms;
+    text-align: center;
+}
+
+
+.first{
+    list-style: none;
+    color: rgb(255, 248, 240);
+    text-align: center;
+}
+
+
+.a-page2:hover{
+    color: rgb(255, 0, 0);
+}
+
+.h2-second-html{
+    color: rgb(255, 106, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25
+}
+
+.img1{
+    border-radius: 10%;
+}
+
+
+.iframe{
+    text-align: center;
+}
